@@ -13,7 +13,7 @@
 ### Agora utilize este repositório:
 
 #### 1. Copie ou baixe-o
-  - [Baixe](https://github.com/yujiwillian/WatsonAssistant_Telegram#:~:text=with%20GitHub%20Desktop-,Download%20ZIP,-Latest%20commit)
+  - [Baixe](https://github.com/yujiwillian/WatsonAssistant_Telegram/archive/refs/heads/main.zip)
   
 #### 2. Existe um arquivo chamado `.env`, adicione o `TOKEN` e as credenciais do Watson Assistant.
   - O Token é gerado pelo @BotFather no Telegram. (Verifique a sua conversa com o `@BotFather` para coletar esse Token)
