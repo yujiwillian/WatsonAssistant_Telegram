@@ -17,6 +17,7 @@
   
 #### 2. Existe um arquivo chamado `.env`, adicione o `TOKEN` e as credenciais do Watson Assistant.
   - O Token é gerado pelo @BotFather no Telegram. (Verifique a sua conversa com o `@BotFather` para coletar esse Token)
+  - Verifique a versão [clicando aqui](https://cloud.ibm.com/apidocs/assistant-v2)
 
 #### 3. Baixe e instale o Node.js (https://nodejs.org/en/)
 
